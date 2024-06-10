@@ -1,0 +1,26 @@
+header{
+    background-color: black;
+}
+
+section{
+    background-image: url(../bootstrapzpage/img/BICI_ARMADA4.png);
+    background-size: cover;
+}
+
+.register{
+    width: 400px;
+    background-color: darkgray;
+}
+
+#article .card{
+    width: 180px;
+    text-align: center;
+    padding: 25px 15px;
+    box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn btn-primary:hover{
+    background-color: black;
+}
